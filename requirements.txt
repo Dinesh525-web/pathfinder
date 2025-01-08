@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+# metplotlib
+ipykernel
+flask
+streamlit
+catboost
+openai
